@@ -68,7 +68,7 @@ if lang == 0:
         pcj = str('Paper')
     else:
         pcj = str('Scissors')
-    print('Suas opções:')
+    print('Your options:')
     print('''
     [ 0 ] ROCK
     [ 1 ] PAPER
