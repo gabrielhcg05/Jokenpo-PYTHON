@@ -3,3 +3,6 @@ Esse é um jogo bem simples que fiz, foi meu primeiro projeto em Python, tenho m
 
 EN-US
 This is a pretty simple game that i made, it was my first Python project, i know i have a lot to learn, but i posted it because i thought it was fun to play and i wannt to start my repository from somewhere, thank you for reading this!
+
+
+credits: the idea was taken from exercise 45 on the Curso em Vídeo channel (Python Course) from Gustavo Guanabára! 
