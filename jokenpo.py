@@ -104,15 +104,14 @@ if lang == 0:
         if jogada == 1:
             print('Paper beats stone, you \033[32mWON!\033[m :D')
         else:
-            print('Rock beats scissors, você \033[31mPERDEU!\033[m xD')
+            print('Rock beats scissors, you \033[31mLOST!\033[m xD')
     elif pc == 1:
         if jogada == 0:
-            print('Paper beats rock, você \033[31mPERDEU!\033[m xD')
+            print('Paper beats rock, you \033[31mLOST!\033[m xD')
         else:
-            print('Scissors beats paper, você \033[32mVENCEU!\033[m :D')
+            print('Scissors beats paper, you \033[32mWON!\033[m :D')
     else:
         if jogada == 0:
-            print('Rock beats scissors, você \033[32mVENCEU!\033[m :D')
+            print('Rock beats scissors, you \033[32mWON!\033[m :D')
         else:
-            print('Scissors beats paper, você \033[31mPERDEU!\033[m xD')
-    
+            print('Scissors beats paper, you \033[31mLOST!\033[m xD')
