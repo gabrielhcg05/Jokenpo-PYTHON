@@ -130,3 +130,7 @@ while playagain == 1:
         playagain = -1
         while playagain not in ml: 
             playagain = int(input('> '))
+if lang == 0:
+    print('Thank you for playing!')
+else:
+    print('Obrigado por jogar!')
